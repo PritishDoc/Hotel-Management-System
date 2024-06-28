@@ -44,7 +44,7 @@ This project is a hotel management system designed to streamline the process of 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/hotel-management-system.git
+    git clone https://github.com/PritishDoc/hotel-management-system.git
     cd hotel-management-system
     ```
 
