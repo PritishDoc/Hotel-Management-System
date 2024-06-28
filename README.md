@@ -3,7 +3,7 @@
 ## Overview
 
 This project is a hotel management system designed to streamline the process of booking rooms, checking room availability, viewing hotel facilities, and booking cabs for pickup and drop-off. Users can also make online payments. The system features both client and admin sides, allowing users to manage their bookings and administrators to have full control over the hotel operations.
-
+![alt text](third.jpg)
 ## Features
 
 ### Client Side
