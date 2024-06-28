@@ -103,7 +103,7 @@ This project is licensed under the MIT License.
 ![alt text](<Screenshot 2024-06-28 110628.png>)
 ### Checkin/out Page
 ![alt text](<Screenshot 2024-06-28 105844.png>)![alt text](<Screenshot 2024-06-28 105723.png>)
-### Add Emoploye Page
-![alt text](<Screenshot 2024-06-28 105558.png>) ![alt text](<Screenshot 2024-06-28 105558-1.png>) 
+### Add Emoployee Page
+![alt text](<Screenshot 2024-06-28 105558.png>) ![alt text](<Screenshot 2024-06-28 105611-2.png>)
 ### Add Driver Details
 ![alt text](<Screenshot 2024-06-28 105432.png>)
