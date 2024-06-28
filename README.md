@@ -1,5 +1,5 @@
 # Hotel Management System
-
+![alt text](fifth.png)
 ## Overview
 
 This project is a hotel management system designed to streamline the process of booking rooms, checking room availability, viewing hotel facilities, and booking cabs for pickup and drop-off. Users can also make online payments. The system features both client and admin sides, allowing users to manage their bookings and administrators to have full control over the hotel operations.
@@ -13,6 +13,7 @@ This project is a hotel management system designed to streamline the process of 
 ![alt text](eleven.jpg)
 - **Cab Booking**: Book a cab for pickup and drop-off.
 - **Online Payment**: Make payments through an integrated online payment system.
+
 - **User Authentication**: Log in using user ID and password.
 ![alt text](sixth.jpg)
 ### Admin Side
@@ -53,7 +54,7 @@ This project is a hotel management system designed to streamline the process of 
     - Compile and run the application.
 
 ## Usage
-
+![alt text](first.jpg)
 ### Client Side
 1. **Login**: Enter your user ID and password to log in.
 2. **Book Room**: Select and book available rooms.
@@ -61,7 +62,7 @@ This project is a hotel management system designed to streamline the process of 
 4. **View Facilities**: Explore the facilities offered by the hotel.
 5. **Book Cab**: Book a cab for pickup and drop-off.
 6. **Make Payment**: Complete the booking process by making an online payment.
-
+![alt text](second.jpg)
 ### Admin Side
 1. **Login**: Enter admin credentials to access the admin panel.
 2. **Manage Bookings**: View, update, and manage room bookings.
