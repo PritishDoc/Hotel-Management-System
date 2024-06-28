@@ -10,10 +10,11 @@ This project is a hotel management system designed to streamline the process of 
 - **Room Booking**: Customers can book rooms based on availability.
 - **Room Availability**: Check the availability of rooms in real-time.
 - **Hotel Facilities**: View facilities provided by the hotel, such as pool and food services.
+![alt text](eleven.jpg)
 - **Cab Booking**: Book a cab for pickup and drop-off.
 - **Online Payment**: Make payments through an integrated online payment system.
 - **User Authentication**: Log in using user ID and password.
-
+![alt text](sixth.jpg)
 ### Admin Side
 - **Full Data Access**: Administrators have complete control over the application data.
 - **Manage Bookings**: View and manage booking details.
@@ -22,7 +23,7 @@ This project is a hotel management system designed to streamline the process of 
 - **Staff Management**: Add new staff, update staff details, manage payslips, and handle food facilities.
 - **Cab Management**: Add new cars, deprecate old cars, and update driver details.
 - **User Authentication**: Log in using admin ID and password.
-
+![alt text](nine.jpg)
 ## Technology Stack
 
 - **Frontend**: Java AWT, Swing, JavaFX
