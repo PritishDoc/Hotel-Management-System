@@ -94,16 +94,3 @@ This project is licensed under the MIT License.
 
 ---
 
-# Here is some Glimpse of the Project
-### Home page 
-![alt text](<Screenshot 2024-06-28 110709.png>)![alt text](<Screenshot 2024-06-28 110728.png>)![alt text](<Screenshot 2024-06-28 110723.png>)
-### This is the Reception page 
-![alt text](<Screenshot 2024-06-28 105748.png>)
-### Login Page
-![alt text](<Screenshot 2024-06-28 110628.png>)
-### Checkin/out Page
-![alt text](<Screenshot 2024-06-28 105844.png>)![alt text](<Screenshot 2024-06-28 105723.png>)
-### Add Emoployee Page
-![alt text](<Screenshot 2024-06-28 105558.png>) ![alt text](<Screenshot 2024-06-28 105611-2.png>)
-### Add Driver Details
-![alt text](<Screenshot 2024-06-28 105432.png>)
