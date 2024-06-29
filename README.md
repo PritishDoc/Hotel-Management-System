@@ -18,15 +18,6 @@ This project is a hotel management system designed to streamline the process of 
 - **User Authentication**: Log in using user ID and password.
 ![alt text](eleven.jpg)
 
-### Admin Side
-- **Full Data Access**: Administrators have complete control over the application data.
-- **Manage Bookings**: View and manage booking details.
-- **Customer Management**: Access and update customer details.
-- **Room Availability Management**: Update room availability status.
-- **Staff Management**: Add new staff, update staff details, manage payslips, and handle food facilities.
-- **Cab Management**: Add new cars, deprecate old cars, and update driver details.
-- **User Authentication**: Log in using admin ID and password.
-![alt text](sixth.jpg)
 
 ## Technology Stack
 
